@@ -1,4 +1,4 @@
-package bitboards;
+package InternationalChess.engine.bitboards;
 
 import InternationalChess.engine.bitboards.BitBoard.Piece;
 

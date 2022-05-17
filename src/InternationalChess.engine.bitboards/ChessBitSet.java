@@ -1,4 +1,4 @@
-package bitboards;
+package InternationalChess.engine.bitboards;
 import java.util.BitSet;
 
 public final class ChessBitSet extends BitSet {
